@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    box-sizing: 0;
+}
+
+.logo {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.perfil {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 100px;
+    height:146-37;
+}
+
+h1 {
+    font-family: Times 'Times New Roman', Times, serif;
+    padding: 10px 10px;
+    color: #005677;
+    letter-spacing: 8px;
+    text-align: center;
+    font-weight: 700px;
+    line-height: 29.64px;
+    font-size: 35px;
+    margin-top: 40px ;
+    margin-bottom: 110px;
+    background-color: #C4C4C4;
+    width: 1440px;
+    height: 60px;
+    left: 0px;
+    top: 188px
+}
+  
+.datos {
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: 700 px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+     
+}
+
+
+h2 {
+    color: #005677;
+    text-align: left;
+    font-weight: 700;
+    font-size: 23;
+    background-color: #C4C4C4;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 381px;
+    letter-spacing: 8px;
+    padding: 10px;
+}
+
+p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.espacio {
+    padding-left: 80px;
+}
+
+footer {
+    background-color: #005677;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
